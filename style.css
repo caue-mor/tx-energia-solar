@@ -1665,6 +1665,10 @@ section {
 }
 
 /* CTA section-orange overrides */
+.cta-section.section-orange {
+    background: linear-gradient(135deg, #F26B1F 0%, #D14A0D 100%);
+}
+
 .cta-section.section-orange .cta-bg {
     background: radial-gradient(ellipse at center, rgba(255, 255, 255, 0.12) 0%, transparent 70%);
 }
